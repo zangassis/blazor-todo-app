@@ -1,0 +1,3 @@
+dotnet new blazorwasm -o todo
+
+dotnet watch run
