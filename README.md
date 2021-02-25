@@ -12,10 +12,6 @@ To start building .NET apps, download and install the .NET SDK (Software Develop
 
 [.NET SDK](https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/install)
 
-### Instalation
-This package is available through Nuget 
-Packages: https://www.nuget.org/packages/Flunt
-
 **Create app**
 ```
 dotnet new blazorwasm -o todo
